@@ -24,3 +24,6 @@ IterateINI.fromFile(new File("example.ini"), (key, value) -> {
 	System.out.println("Key: " + key + ", Value: " + value);
 });
 ```
+
+## Disclaimer
+This is read only and **does not** support sections, entry recognition or multi-line values

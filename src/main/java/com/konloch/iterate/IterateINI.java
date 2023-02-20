@@ -50,4 +50,14 @@ public class IterateINI
 			onPairFound.found(key, value);
 		}
 	}
+	
+	/**
+	 * Alert that this is a library
+	 *
+	 * @param args program launch arguments
+	 */
+	public static void main(String[] args)
+	{
+		throw new RuntimeException("Incorrect usage - for information on how to use this correctly visit https://konloch.com/IterateINI/");
+	}
 }

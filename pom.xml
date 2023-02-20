@@ -6,7 +6,7 @@
 	<version>1.0.0</version>
 
 	<name>IterateINI</name>
-	<description>IterateINI is an easy-to-use zero dependency Java library to add support for iterating over the key-value pairs of any INI file.</description>
+	<description>IterateINI is an easy-to-use zero dependency Java library that adds support for iterating over the key-value pairs of any INI file.</description>
 	<url>https://konloch.com/IterateINI/</url>
 	<inceptionYear>2022</inceptionYear>
 

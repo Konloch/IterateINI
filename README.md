@@ -26,4 +26,4 @@ IterateINI.fromFile(new File("example.ini"), (key, value) -> {
 ```
 
 ## Disclaimer
-This is read only and **does not** support sections, entry recognition or multi-line values
+The API is read only, and **does not** support sections, entry recognition or multi-line values

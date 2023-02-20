@@ -33,9 +33,9 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git://github.com/Konloch/HTTPRequest.git</connection>
-		<developerConnection>scm:git:ssh://github.com:Konloch/HTTPRequest.git</developerConnection>
-		<url>http://github.com/Konloch/HTTPRequest/tree/master</url>
+		<connection>scm:git:git://github.com/Konloch/IterateINI.git</connection>
+		<developerConnection>scm:git:ssh://github.com:Konloch/IterateINI.git</developerConnection>
+		<url>http://github.com/Konloch/IterateINI/tree/master</url>
 	</scm>
 
 	<properties>
